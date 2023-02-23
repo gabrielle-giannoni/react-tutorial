@@ -1,4 +1,5 @@
 import './MainMenu.css'
+import  Box  from '@mui/material/Box'
 
 // const hello = "Olá este é o menu!"
 
@@ -11,9 +12,9 @@ import './MainMenu.css'
 
 const MainMenu = () => {
     return (
-        <nav style = {styles.nav}>
+        <Box component="nav" sx = {styles.nav}>
           <ul style = {styles.ulMenu}>Menu...</ul>
-        </nav>
+        </Box>
     )
 }
 
