@@ -8,6 +8,7 @@ const Content = () => {
             height: '500px'
         }}>
             <h2>Content</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde ipsum, temporibus provident nulla explicabo assumenda voluptas! Quam suscipit iste incidunt ipsum natus, debitis obcaecati, animi dicta, molestiae sapiente inventore assumenda?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde ipsum, temporibus provident nulla explicabo assumenda voluptas! Quam suscipit iste incidunt ipsum natus, debitis obcaecati, animi dicta, molestiae sapiente inventore assumenda?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde ipsum, temporibus provident nulla explicabo assumenda voluptas! Quam suscipit iste incidunt ipsum natus, debitis obcaecati, animi dicta, molestiae sapiente inventore assumenda?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde ipsum, temporibus provident nulla explicabo assumenda voluptas! Quam suscipit iste incidunt ipsum natus, debitis obcaecati, animi dicta, molestiae sapiente inventore assumenda?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde ipsum, temporibus provident nulla explicabo assumenda voluptas! Quam suscipit iste incidunt ipsum natus, debitis obcaecati, animi dicta, molestiae sapiente inventore assumenda?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde ipsum, temporibus provident nulla explicabo assumenda voluptas! Quam suscipit iste incidunt ipsum natus, debitis obcaecati, animi dicta, molestiae sapiente inventore assumenda?</p>
         </Box>
     )
 }
