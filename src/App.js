@@ -30,11 +30,17 @@ import Sidebar from './components/Sidebar'
 import Content from './components/Content'
 import Footer from './components/Footer'
 
+// const pessoa = {
+//   nome: "Serena",
+//   idade: 2
+// }
+
 
 const App = () => {
   return (
     <>
       <Header />
+      {/* <h1>Olá {pessoa['nome']}</h1> */}
       <MainMenu />
       <Box sx={{
         display: 'flex',
