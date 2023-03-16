@@ -1,6 +1,7 @@
 import Box from "@mui/material/Box";
 import { height } from "@mui/system";
 import Alert from "./alert";
+import Counter from "./SampleUseState";
 const Content = () => {
 
     // const cadastrou = true
@@ -26,6 +27,7 @@ const Content = () => {
             <Alert type="warning">
                 warning!
             </Alert>
+            <Counter />
 
             {/* {cadastrou === true ?
             <Alert color="#cdefd6">
