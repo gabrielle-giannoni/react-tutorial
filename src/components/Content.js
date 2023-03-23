@@ -1,5 +1,4 @@
 import Box from "@mui/material/Box";
-import { height } from "@mui/system";
 import Alert from "./alert";
 import Counter from "./SampleUseState";
 const Content = () => {
@@ -11,7 +10,7 @@ const Content = () => {
         <Box sx={{
             background: '#66CDAA',
             width: '1600px',
-            height: '500px'
+            height: '600px'
         }}>
             <h2>Content</h2>
             <p>Lorem ipsum, dolor sit adipisicing e</p>

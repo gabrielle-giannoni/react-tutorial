@@ -1,5 +1,4 @@
 import Box from "@mui/material/Box";
-import { padding } from "@mui/system"
 import montanha from './assets/img/montanha.jpg'
 import {ReactComponent as IconCart} from './assets/img/carrinho.svg'
 import {FaCartPlus} from 'react-icons/fa'
