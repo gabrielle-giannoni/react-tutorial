@@ -1,6 +1,7 @@
 import Box from "@mui/material/Box"
 import Header from '../components/Header'
 import MainMenu from '../components/MainMenu'
+import Content from "../components/Content";
 import Sidebar from '../components/Sidebar'
 import Footer from '../components/Footer'
 
@@ -15,11 +16,9 @@ const Contact = () => {
   
         }}>
           <Sidebar />
-          <Box>
-            <h1>Entre em Contato</h1>
-            <p>Nosso Numero: 0800555050</p>
-            <p>Nosso Email: contactus@gmail.com</p>
-          </Box>
+          <Content title= "Contato">
+            <p>Entre em contato com a gente</p>
+          </Content>
         </Box>
         <Footer />
       </>
