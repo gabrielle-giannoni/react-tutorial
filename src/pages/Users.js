@@ -38,6 +38,7 @@ const Users = () => {
     console.log(user)
     try {
       const response = await fetch('http://localhost:3100/user',
+      // a linha de cima é da tabela usuario da parte back
       {
         method: 'POST',
         headers: {
